@@ -1,0 +1,5 @@
+print(set("sanghyng"))
+print(set([12,34,56,78]))
+print(set(("신지희","한주완","김태륜")))
+print(set({'boy':'소년', 'school':'학교', 'book':'책'}))
+print(set())
